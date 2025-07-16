@@ -51,6 +51,10 @@ nav{
     
     
 }
+ .box:hover{
+    background-color: black;
+    color: white;
+ }
 .products{
     text-align: center;
     padding:15px;
